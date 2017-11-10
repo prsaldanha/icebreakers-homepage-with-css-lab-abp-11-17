@@ -9,7 +9,7 @@ body {
 
 header {
   height: 100px;
-  border-bottom: solid #CCC;
+  border-bottom: 1px solid #CCC;
 }
 
 header nav{
@@ -115,3 +115,4 @@ footer {
   padding-top: 20px;
   color: #CCC;
 }
+
